@@ -55,7 +55,8 @@ This project analyzes transactional data to identify revenue trends, peak sales 
 ---
 
 ## 📊 Dashboard Preview  
-*(Add Power BI screenshots here)*  
+
+<img width="1862" height="1009" alt="image" src="https://github.com/user-attachments/assets/b2e29c5e-450f-4f4a-a433-25036dafc7fb" />
 
 ---
 
